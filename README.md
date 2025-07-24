@@ -48,9 +48,9 @@ Saya seorang **Web Developer** yang saat ini sedang fokus membangun **Sistem Pem
 
 ## 📫 Hubungi Saya
 
-- ✉️ Email: [namamu@gmail.com](mailto:namamu@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/namamu](https://linkedin.com/in/namamu)  
-- 🌐 Website/Portfolio: https://namamu.dev  
+- ✉️ Email: (1jordan9wijayanto@gmail.com) 
+- 🔗 LinkedIn: (https://www.linkedin.com/in/jordan-wijayanto-adm)  
+- 🌐 Website/Portfolio: -  
 
 ---
 
