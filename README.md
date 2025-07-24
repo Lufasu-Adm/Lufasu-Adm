@@ -14,16 +14,6 @@ Saya seorang **Web Developer** yang saat ini sedang fokus membangun **Sistem Pem
 
 ---
 
-## 🔭 Proyek Unggulan
-
-| Nama Proyek                             | Deskripsi singkat                                          | Link                                                    |
-| --------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------- |
-| **Booking Ruang Rapat**                 | Sistem reservasi ruangan rapat berbasis Laravel + Vue.js   | https://github.com/Lufasu-Adm/booking-ruang-rapat       |
-| **Dashboard Data Visualisasi**          | Visualisasi penjualan genre video game dengan D3.js       | https://github.com/Lufasu-Adm/game-sales-visualization  |
-| **Template API Dokumentasi**            | Boilerplate Laravel + Swagger untuk API management         | https://github.com/Lufasu-Adm/laravel-api-boilerplate   |
-
----
-
 ## 🧰 Tech Stack & Tools
 
 ![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel)
