@@ -1,51 +1,47 @@
-<!-- Banner Honkai: Star Rail -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/ USERNAME /hsr-profile-banner.png" alt="Honkai Star Rail Banner" width="800"/>
-</p>
+# 👋 Halo, saya Lufasu-Adm!
 
-# 🪐 Welcome Aboard, Trailblazer!
-
-> “Every journey has its own story of courage and discovery.”  
-> – Tingyun, Trailblazer’s Guide
-
-Salam, saya **Lufasu-Adm**, Trailblazer yang menelusuri bintang-bintang di **Honkai: Star Rail** dan juga Web Developer 🕹️💻.
+Selamat datang di GitHub saya!  
+Saya seorang **Web Developer** yang saat ini sedang fokus membangun **Sistem Pemesanan Ruang Rapat** untuk **PT PAL Indonesia**.
 
 ---
 
-## 🚀 Star Rail Profile
-
-| Character | Constellation | Level | Relic Set         |
-| --------- | ------------- | ----- | ----------------- |
-| March 7th | ★★★★          | 90    | **Galactic Hymn** |
-| Tingyun   | ★★★★          | 90    | **Echoes of War** |
-| Serval    | ★★★★★         | 80    | **Virtuous Pact** |
-
----
-
-## 🧑‍💻 Dev Journey
-
-- 🔭 **Currently coding**: Sistem Booking Ruang Rapat @ PT PAL  
-- 🌱 **Learning**: GitHub Actions & Tailwind CSS  
-- 🛠️ **Tools**: Laravel · PostgreSQL · D3.js · VS Code  
+## 🚀 Tentang Saya
+- 🏢 Bekerja dengan Laravel, PostgreSQL, dan PHP  
+- 📊 Menggunakan D3.js untuk visualisasi data interaktif  
+- 🛠️ Tools favorit: VS Code · Postman · Figma  
+- 🌱 Sedang belajar: GitHub Actions, Tailwind CSS, dan React  
+- 🎓 Latar belakang: Kerja Praktik di PT PAL (Front‑end & Back‑end)
 
 ---
 
-## 🎮 Trailblazer Achievements
+## 🧰 Tech Stack & Tools
 
-![Lufasu-Adm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lufasu-Adm&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lufasu-Adm&layout=compact&theme=radical)
+![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel)
+![PHP](https://img.shields.io/badge/-PHP-blue?logo=php)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+![D3.js](https://img.shields.io/badge/-D3.js-orange?logo=d3.js)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3)
+![VS%20Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)
+![Figma](https://img.shields.io/badge/-Figma-pink?logo=figma)
 
 ---
 
-## 🌐 Connect with Me
+## 📈 GitHub Stats
 
-[![Discord](https://img.shields.io/badge/Discord-99AAB5?logo=discord&logoColor=white)](https://discord.gg/your-invite)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/your-channel)
+![Lufasu-Adm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lufasu-Adm&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lufasu-Adm&layout=compact&theme=tokyonight)
 
 ---
 
-<div align="center">
-  <img src="https://your-cdn.com/stellar-express.gif" alt="Stellar Express" width="300"/>
-</div>
+## 📫 Hubungi Saya
 
-> “May the stars guide your path.” ✨  
+- ✉️ Email: (1jordan9wijayanto@gmail.com) 
+- 🔗 LinkedIn: (https://www.linkedin.com/in/jordan-wijayanto-adm)  
+- 🌐 Website/Portfolio: -  
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
