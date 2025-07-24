@@ -1,7 +1,7 @@
 # 👋 Halo, saya Lufasu-Adm!
 
 Selamat datang di GitHub saya!  
-Saya seorang **Web Developer** yang saat ini sedang fokus membangun **Sistem Pemesanan Ruang Rapat** untuk **PT PAL Indonesia**.
+Saya seorang **Web Developer** yang gemar membangun berbagai aplikasi web.
 
 ---
 
