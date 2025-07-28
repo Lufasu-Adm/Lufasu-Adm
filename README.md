@@ -20,6 +20,7 @@ Saya seorang **Web Developer** yang gemar membangun berbagai aplikasi web, mulai
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite)
 ![PHP](https://img.shields.io/badge/-PHP-blue?logo=php)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js)
 ![D3.js](https://img.shields.io/badge/-D3.js-orange?logo=d3.js)
