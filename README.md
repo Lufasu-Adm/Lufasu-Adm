@@ -47,7 +47,7 @@ Saya seorang **Web Developer** yang gemar membangun berbagai aplikasi web, mulai
 
 - ✉️ Email: **1jordan9wijayanto@gmail.com**  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/jordan-wijayanto-adm](https://www.linkedin.com/in/jordan-wijayanto-adm)  
-- 🌐 Website/Portfolio: *Coming Soon*  
+- 🌐 Website/Portfolio: https://lufasu-adm.github.io/portfolio-interaktif/#projects
 
 ---
 
