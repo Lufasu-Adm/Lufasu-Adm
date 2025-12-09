@@ -17,7 +17,7 @@ Saya seorang **Informatics Student** (Semester 7) di Telkom University Surabaya 
 - 🔭 Saat ini sedang mengerjakan: **Sistem Rekomendasi Dokter Kulit dengan AI (IndoBERT)**.
 - 🌱 Sedang mendalami: **React.js**, **Flutter**, dan **Cybersecurity**.
 - 💼 Pengalaman: **Internship di PT PAL Indonesia** (Membangun sistem Booking & Kantin).
-- 🎨 Hobi: **Photography** & **Genshin Impact**.
+- 🎨 Hobi: **Photography** & **GAME**.
 
 ---
 
