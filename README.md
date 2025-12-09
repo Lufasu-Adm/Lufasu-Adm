@@ -52,10 +52,18 @@ Saya seorang **Informatics Student** (Semester 7) di Telkom University Surabaya 
 
 ---
 
-## 🐍 My Contributions Snake
+## 📊 Activity Overview
 
 <div align="center">
-  <img alt="snake eating my contributions grid" src="https://github.com/Lufasu-Adm/Lufasu-Adm/blob/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lufasu-adm&theme=tokyonight" alt="Lufasu-Adm's Activity Graph" />
+
+<br><br>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=lufasu-adm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
+
 </div>
 
 ---
