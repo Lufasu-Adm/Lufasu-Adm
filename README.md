@@ -52,24 +52,10 @@ Saya seorang **Informatics Student** (Semester 7) di Telkom University Surabaya 
 
 ---
 
-## ⚡ Skills & Consistency
+## 🐍 My Contributions Snake
 
 <div align="center">
-
-<h3 align="center">My Core Arsenal</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,vue,vite,php,python,js,html,css,mysql,postgres,git,figma,vscode,postman&theme=dark" alt="My Skills" />
-  </a>
-</p>
-
-<br>
-
-<h3 align="center">Coding Streak</h3>
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=lufasu-adm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
-
+  <img alt="snake eating my contributions grid" src="https://github.com/Lufasu-Adm/Lufasu-Adm/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
