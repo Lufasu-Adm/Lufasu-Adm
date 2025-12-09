@@ -52,16 +52,20 @@ Saya seorang **Informatics Student** (Semester 7) di Telkom University Surabaya 
 
 ---
 
-## 🏆 Achievements & Activity
+## ⚡ Skills & Consistency
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=lufasu-adm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="trophy" />
-</a>
+<h3 align="center">My Core Arsenal</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,vue,vite,php,python,js,html,css,mysql,postgres,git,figma,vscode,postman&theme=dark" alt="My Skills" />
+  </a>
+</p>
 
-<br><br>
+<br>
 
+<h3 align="center">Coding Streak</h3>
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=lufasu-adm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
