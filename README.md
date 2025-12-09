@@ -35,12 +35,16 @@ Saya seorang **Web Developer** yang gemar membangun berbagai aplikasi web, mulai
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 
 ---
-
 ## 📈 GitHub Stats
 
-![Lufasu-Adm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lufasu-Adm&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lufasu-Adm&layout=compact&theme=tokyonight)
+<div align="center">
 
+<a href="https://github.com/Lufasu-Adm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lufasu-Adm&show_icons=true&theme=tokyonight&count_private=true" alt="Lufasu-Adm's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lufasu-Adm&layout=compact&theme=tokyonight" alt="Top Langs" />
+</a>
+
+</div>
 ---
 
 ## 📫 Hubungi Saya
