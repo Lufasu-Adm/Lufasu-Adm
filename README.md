@@ -12,7 +12,7 @@
 
 # 👋 About Me
 
-I’m **Jordan Wijayanto** — an Informatics student (Semester 7) at Telkom University Surabaya with a passion for **Full-Stack Development** and **Artificial Intelligence**. I build usable systems and beautiful data-driven visualizations.
+I’m **Jordan Wijayanto** an Informatics student (Semester 7) at Telkom University Surabaya with a passion for **Full-Stack Development** and **Artificial Intelligence**. I build usable systems and beautiful data-driven visualizations.
 
 - 🔭 Currently building: **AI-powered Dermatologist Recommendation System (IndoBERT)**  
 - 🌱 Currently learning: **React.js**, **Flutter**, **Cybersecurity**  
