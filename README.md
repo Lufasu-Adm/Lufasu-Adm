@@ -58,13 +58,21 @@ I’m **Jordan Wijayanto** an Informatics student (Semester 7) at Telkom Univers
 
 ---
 
-# 📫 Contact & Links
+## 📬 Contact & Links
 
 <div align="center">
 
-[Email](mailto:1jordan9wijayanto@gmail.com) •  
-[LinkedIn](https://www.linkedin.com/in/jordan-wijayanto-adm) •  
-[Portfolio](https://lufasu-adm.github.io/portfolio-interaktif/#projects)
+<a href="mailto:1jordan9wijayanto@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/jordan-wijayanto-adm">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://lufasu-adm.github.io/portfolio-interaktif/#projects">
+  <img src="https://img.shields.io/badge/Portfolio-Website-success?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
 </div>
 
