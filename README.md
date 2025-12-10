@@ -48,12 +48,10 @@ I’m **Jordan Wijayanto** an Informatics student (Semester 7) at Telkom Univers
 AI-powered recommendation model to match users with specialist dermatologists based on symptoms and patient history. Uses IndoBERT for Indonesian NLP.
 
 > **Booking & Canteen System (PT PAL Indonesia)**  
-Full-stack system for scheduling and canteen management — implemented during internship, includes role-based access, reservation flows, and reporting dashboards.
+Full-stack system for scheduling and canteen management implemented during internship, includes role-based access, reservation flows, and reporting dashboards.
 
 > **Interactive Portfolio**  
-A personal portfolio with project demos and live charts — built to showcase interactive visualizations and front-end craftsmanship.
-
-*(Want a Projects section expanded with links, screenshots and short tech stacks per project? I can format that next.)*
+A personal portfolio with project demos and live charts built to showcase interactive visualizations and front-end craftsmanship.
 
 ---
 
