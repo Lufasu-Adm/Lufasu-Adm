@@ -16,7 +16,7 @@ I’m **Jordan Wijayanto** an Informatics student (Semester 7) at Telkom Univers
 
 - 🔭 Currently building: **AI-powered Dermatologist Recommendation System (IndoBERT)**  
 - 🌱 Currently learning: **React.js**, **Flutter**, **Cybersecurity**  
-- 💼 Internship experience: **PT PAL Indonesia** — developed Booking & Canteen systems  
+- 💼 Internship experience: **PT PAL Indonesia** developed Booking & Canteen systems  
 - 🎨 Hobbies: **Photography** & **Gaming**
 
 ---
