@@ -70,7 +70,7 @@ I’m **Jordan Wijayanto** an Informatics student (Semester 7) at Telkom Univers
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://lufasu-adm.github.io/portfolio-interaktif/#projects">
+<a href="[https://lufasu-adm.github.io/portfolio-interaktif/#projects](https://lufasu-adm.github.io/portfolio/)">
   <img src="https://img.shields.io/badge/Portfolio-Website-success?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
