@@ -62,16 +62,16 @@ I’m **Jordan Wijayanto** an Informatics student (Semester 7) at Telkom Univers
 
 <div align="center">
 
-<a href="mailto:1jordan9wijayanto@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:1jordan4wijayanto@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/jordan-wijayanto-adm">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/jordan-wijayanto-adm/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="[https://lufasu-adm.github.io/portfolio-interaktif/#projects](https://lufasu-adm.github.io/portfolio/)">
-  <img src="https://img.shields.io/badge/Portfolio-Website-success?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="https://lufasu-adm.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
